@@ -40,7 +40,7 @@
 - [Pythonコードのファイル](https://github.com/PT-Araisan/scd-abab-graph/blob/main/main.ipynb)
 
 - この赤丸の場所を押してmain.ipynbというファイルをダウンロードしておいてください。
-![画像３](https://github.com/PT-Araisan/scd-mltbs-graph/blob/main/assets/demo2.png)
+![画像３](https://github.com/PT-Araisan/scd-abab-graph/blob/main/assets/demo2.png)
 
 2. **Google colaboratoryの利用**: 次にこちらのツールを使います。今回の作業は無料で可能。
 
