@@ -59,7 +59,7 @@ Googleアカウントが必要です。
 
 - ⓶を押して、グラフを作りたいCSVファイルをアップロードしてください。
 
-![画像４](https://github.com/PT-Araisan/scd-mltbs-graph/blob/main/assets/demo6.png)
+![画像４](https://github.com/PT-Araisan/scd-abab-graph/blob/main/assets/demo4.png)
 
 
 - 最後に、↓の画像の'hoge.csv'のところを、自分がアップロードしたファイルの名前に変更して、上の赤丸の△ボタンを押します。Ctrl + Enterでもいいです。
