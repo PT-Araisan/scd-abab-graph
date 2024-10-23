@@ -4,7 +4,7 @@
 
 ## 出来上がるグラフ
 
-例えばこのようなグラフを作ることができます。サンプルグラフ⓷のようなちょっと特殊なデザインにも対応しています。
+例えばこのようなグラフを作ることができます。
 
 - ↓サンプルグラフ⓵（ABAデザイン）
 
@@ -15,6 +15,7 @@
 ![サンプルグラフ](https://github.com/PT-Araisan/scd-abab-graph/blob/main/assets/abab.png)
 
 - ↓サンプルグラフ⓷（ABCBCデザイン）
+ちょっと特殊なこのようなデザインにも対応しています。
 
 ![サンプルグラフ](https://github.com/PT-Araisan/scd-abab-graph/blob/main/assets/abcbc.png)
 
